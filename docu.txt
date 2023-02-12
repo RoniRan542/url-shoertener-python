@@ -1,0 +1,5 @@
+Deployment:
+
+WSGI:
+    within WSGI you have frameworks(Flask, Django..) and  servers(Gunicorn, uWSGI..).
+    Any compatible framework with WSGI protocol can be served by the servers.
